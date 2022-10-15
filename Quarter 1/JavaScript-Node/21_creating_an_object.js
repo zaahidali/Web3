@@ -1,0 +1,1 @@
+let cities_object = {city: "Istanbul", capital: "Ankara", country: "Turkiye"};

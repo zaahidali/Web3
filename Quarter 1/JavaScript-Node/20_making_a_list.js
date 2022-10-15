@@ -1,0 +1,1 @@
+let random_list = ["K2", "Hawaii", "Denver", "Colorado", "Black Sea", "Turkish"];
