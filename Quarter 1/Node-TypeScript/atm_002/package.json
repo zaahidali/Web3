@@ -1,0 +1,13 @@
+{
+  "name": "atm_002",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atm_002.js",
+  "scripts": {
+    "test": "node atm_002.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

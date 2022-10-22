@@ -1,0 +1,13 @@
+{
+  "name": "word_counter_05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "word_counter.js",
+  "scripts": {
+    "start": "node word_counter.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

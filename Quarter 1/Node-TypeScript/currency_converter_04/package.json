@@ -1,0 +1,13 @@
+{
+  "name": "currency_converter_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currency_converter_04.js",
+  "scripts": {
+    "start": "node currency_converter_04.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
