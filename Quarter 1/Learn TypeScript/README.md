@@ -10,4 +10,9 @@
 #### 05) Any Type
 #### 06) Explict Casting
 #### 07) Enum, String Enums
-#### 08) Const Enums
+#### 08) Functions
+#### 09) Explict Casting
+#### 10) Function optional parameter
+#### 11) Function default parameter
+#### 12) Function rest parameter
+#### 13) Lambda/arrow function
