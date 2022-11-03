@@ -16,3 +16,5 @@
 #### 11) Function default parameter
 #### 12) Function rest parameter
 #### 13) Lambda/arrow function
+#### 14) Callbacks
+#### 15) Function Overloading
