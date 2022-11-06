@@ -18,3 +18,5 @@
 #### 13) Lambda/arrow function
 #### 14) Callbacks
 #### 15) Function Overloading
+#### 16 a) Union Types
+#### 16 b) Custom Type Guards
